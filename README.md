@@ -44,3 +44,7 @@ Working on this simplistic project yielded lots of interesting questions, such a
 Can also use the color ramping functionality for art:
 
 ![](https://raw.githubusercontent.com/jakubperlin/simplistic-motion-tracking/master/cactus.png)
+
+Original:
+
+![](https://raw.githubusercontent.com/jakubperlin/simplistic-motion-tracking/master/cactus_original.jpg)
