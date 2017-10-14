@@ -6,4 +6,10 @@ I implemented elementary motion tracking in Python. Only libraries I used were u
 
 Currently this repository only contains the demo of the results, no code:
 
-...
+![#01][01a.gif?raw=true]
+
+
+![#02][01b.gif?raw=true]
+
+
+![#03][01c.gif?raw=true]
